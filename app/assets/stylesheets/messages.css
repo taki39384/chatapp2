@@ -7,12 +7,13 @@
   height: 100vh;
   background-color: #253141;
 }
-.side_ber_top{
+.side-bar-header{
   height: 100px;
   padding: 0px 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #253141;
 }
 .header-name a{
   font-size: 16px;
@@ -143,4 +144,9 @@
 
 .hidden {
   display: none;
+}
+.header-name{
+  color: #38AEF0;
+  font-size: 16px;
+  text-align: center;
 }
